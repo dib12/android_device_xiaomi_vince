@@ -39,8 +39,8 @@ vendor/lib/libubifocus.so
 vendor/lib/libactuator_vince_dw9714v_ofilm.so
 vendor/lib/libactuator_vince_dw9763_sunny.so
 
-# Camera-bin
-vendor/bin/mm-qcamera-daemon
+# Camera-bin - from daisy
+vendor/bin/mm-qcamera-daemon|255819873e09a5c782fab15009103aeb72d61d94
 
 # Camera-chromatix
 vendor/lib/libchromatix_ov12a10_sunny_vince_4k_preview_dw9763.so
