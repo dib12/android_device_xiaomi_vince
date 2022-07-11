@@ -12,7 +12,7 @@ include device/xiaomi/msm8953-common/BoardConfigCommon.mk
 DEVICE_PATH := device/xiaomi/vince
 
 # Display
-TARGET_SCREEN_DENSITY := 440
+TARGET_SCREEN_DENSITY := 400
 
 # Camera
 TARGET_SUPPORT_HAL1 := false
