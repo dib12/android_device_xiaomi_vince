@@ -1331,10 +1331,12 @@
     </path>
 
     <path name="sidetone-headphones">
+        <!--
         <path name="sidetone-iir" />
         <ctl name="RX1 MIX2 INP1" value="IIR1" />
         <ctl name="RX2 MIX2 INP1" value="IIR1" />
         <ctl name="IIR1 INP1 Volume" value="53" />
+        -->
     </path>
 
     <path name="voice-handset">
